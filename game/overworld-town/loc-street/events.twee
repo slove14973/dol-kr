@@ -112,17 +112,17 @@
 
 <<widget "pantsdowntime">>
 	<<if $pantsdowntimer is 0>>
-        A crowd has quickly formed around you, spectating your humiliation.
+        당신의 주변에 군중이 빠르게 형성되어 당신의 굴욕을 보고 있다.
     <<elseif $pantsdowntimer is 1>>
-        It must have been more than a half an hour since Whitney left the scene. The crowd has grown in size since then.
+        휘트니가 현장을 떠난 지 30분이 넘었다. 그때부터 군중은 점점 규모가 커졌다.
     <<elseif $pantsdowntimer is 2>>
-        It's been more than an hour since Whitney left you. The small crowd has grown into a large one.
+        휘트니가 떠난 지 한 시간이 넘었다. 소규모 군중이 대규모 군중으로 변했다.
     <<elseif $pantsdowntimer is 3>>
-        It's been more than an hour and a half since Whitney left you. A huge crowd has formed, completely surrounding you. They've grown even bolder and louder.
+        휘트니가 당신을 떠난 지 한 시간 반이 넘었다. 거대한 군중이 형성되어 당신을 완전히 에워쌌다. 그들은 훨씬 더 대담해지고 시끄럽게 되었다.
     <<elseif $pantsdowntimer is 4>>
-        It's been over two hours since Whitney left, and still hasn't returned.  You wonder if <<he>>'s ever going to come back. A huge crowd has formed, completely surrounding you. The crowd and traffic has reached its largest size. You are surrounded by cars and shoppers.
+        휘트니가 떠난 지 두 시간이 넘었는데도 아직도 돌아오지 않고 있다. <<he>>가 다시 돌아올지 의문이다. 거대한 군중이 형성되어 완전히 당신을 둘러싸고 있다. 군중과 교통량이 최대 규모에 이르렀다. 당신은 자동차와 쇼핑객들에 둘러싸여 있다.
     <<else>>
-        You've lost track of how long it's been since Whitney left. Everyone in town must have seen your exposed genitals and naked butt at this point. Somehow the crowd hasn't gotten any smaller.
+        당신은 휘트니가 떠난 지 얼마나 되었는지 알지 못한다. 마을의 모든 사람들이 이 시점에서 당신의 보지(혹은 자지)와 벌거벗은 엉덩이를 봤을 것이다. 어쩐지 군중은 더 작아지지 않았다.
     <</if>>
 	<br><br>
 <</widget>>
