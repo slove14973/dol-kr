@@ -60,7 +60,7 @@
 	<<passoutstreet>>
 <<elseif $town_projects.bridge is 1>>
 	<<set $town_projects.bridge to 2>>
-	You notice the remains of a bridge that once spanned the canal. You saw the same ruin in your hookah dream. It must have been removed after the canal was drained.
+	당신은 한때 운하에 걸쳐 있던 다리의 잔해를 알아차렸다. 당신은 물담배를 빨고 꾼 꿈에서 같은 폐허를 본 적이 있다. 그것은 운하가 배수된 후에 제거된 것 같다.
 	<br><br>
 	You see a <<generatey1>><<person1>><<person>> you recognise from the orphanage scurry into the canal, and emerge relieved on the other side. <span class="teal">An idea strikes you.</span> If the bridge were restored, those thugs would have a harder time harassing people.
 	<br><br>
